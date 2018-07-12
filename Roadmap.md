@@ -45,7 +45,7 @@ A key attribute of an 'editor' is performance and stability, if we add features 
 
 * :runner: Improve intra-file navigation 
   * [x] outline
-  * [ ] :runner: brean crumb
+  * [ ] :runner: bread crumb
 * [x] Support to layout the editor area as a grid
 * [ ] :runner: Investigate improved settings discovery and editing
 * [x] Finish Multi-root folder Workspaces support and support extension authors in adopting it
